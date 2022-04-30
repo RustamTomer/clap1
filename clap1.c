@@ -15,3 +15,6 @@ int main() {
     printf("Number is prime")
     return 0;
 }
+
+/* RA2111003011677
+RUSTAM SINGH TOMER */
