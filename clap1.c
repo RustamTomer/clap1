@@ -12,7 +12,7 @@ int main() {
     }
   }
   if(decision==0)
-    printf("Number is prime")
+    printf("Number is prime");
     return 0;
 }
 
